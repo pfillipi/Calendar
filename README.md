@@ -1,4 +1,7 @@
 # Calendar
+Calendar made for schedule clinic appointments.
+The technologies used are Vue and Firebase for the backend.
+
 # vue-calendar
 
 ## Project setup
